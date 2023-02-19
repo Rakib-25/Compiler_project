@@ -1,0 +1,43 @@
+header file included 
+
+integer type data 
+character type daata
+long type data
+<
+<
+assignment operator
+void return type
+return from function
+float number
+double number
+
+showing output
+taking user input
+logical and (&&) operation
+logical or (||) or operation
+continue the loop
+break the loop
+static variable
+'+' operator
+'-' minus operator
+equal operator
+not equal operator
+size of array
+multi line commentdfgsdg
+dfgdfone line comment 
+conditional if 
+conditional else if
+conditional else 
+multiple operator 
+divide operator
+logical not operator
+conditonal  switch case
+conditonal less than equal
+conditional greater than equal
+main function
+incriment one
+decrement one
+
+for: Iassignment operator0,I conditonal less than equal N,I incriment one {
+    
+}
